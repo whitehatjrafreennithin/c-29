@@ -1,0 +1,26 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: aquamarine;
+}
+
+
+
+
+
+.text_images_and_result bob li{
+    background: white;
+    width: 310px;
+    box-shadow: 5px 5px 15px white;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+.text_images_and_result bob{
+    margin-top: 15px;
+    border: 2px solid white;
+    padding: 10px;
+    box-shadow:5px 5px 15px white;
+}
+
+.img-responsive{
+    width: 200px;
+}
